@@ -2,7 +2,7 @@
 
 meu nome  é Dhomini B. Da Silva Cardoso 
 
-estou estudando na alura 
+estou estudando na alura ![](https://cursos.alura.com.br/dashboard)
 estou me desenvolvendo na linguagem javaScript
 ultilizo esse espaço para minha organizaçao e compartilhamento dos meu projeto desenvolvidos
 
